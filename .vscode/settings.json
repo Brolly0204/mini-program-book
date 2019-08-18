@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "*.stylus": "stylus",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "*.wxml": "wxml"
+  }
+}
